@@ -1,0 +1,21 @@
+header {
+  background-color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hamburguer {
+  height: 25px;
+  width: 35px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hamburguer-line {
+  height: 5px;
+  background-color: black;
+}
